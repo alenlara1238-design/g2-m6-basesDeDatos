@@ -15,6 +15,5 @@ public class EmpleadoResponseDTO {
     // En la respuesta sí podemos mostar infromación mas amigable.
     private String departamentoNombre;
 
-    public record builder() {
-    }
+    
 }
